@@ -1,5 +1,5 @@
 #! python3
-# quickWeather.py - Prints the weather for a location from the cmd line
+# morning_forecast.py - Prints the weather for a location from the cmd line
 import requests, json, sys, time
 from win10toast import ToastNotifier
 
