@@ -20,7 +20,7 @@ weather_imgs = {
 
 # compute location from cmd line args
 if len(sys.argv) < 2:
-    print('Usage: quickWeather.py location')
+    print('Usage: good_morning.py location')
     sys.exit()
 
 location = ' '.join(sys.argv[1:])
